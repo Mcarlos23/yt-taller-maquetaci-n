@@ -1,5 +1,5 @@
 # Taller de Maquetación
-Mi primer repo
+Mi primer repo. Update
 
 Repositorio de taller de maquetación de YouTube de @jonmircha. 
 
